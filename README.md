@@ -1,2 +1,4 @@
-# web-330
-Web 330 Bellevue University
+# WEB 330 Enterprise JavaScript II
+## Contributors
+* Richard Krasso
+* Janis Gonzalez
