@@ -9,7 +9,7 @@
 */
 
 /**
- * Set the default theme to light if one has not been set in the browsers localStorage
+ * default theme set to light
  */
 
 function setDefaultTheme() {
@@ -23,7 +23,7 @@ function setDefaultTheme() {
 }
 
 /**
- * Set the HTML body to the user's selected theme. If one has not been selected, set the theme to light-theme
+ * sets to user's selected theme and if none, set to default
  */
 
 function setSelectedTheme() {
