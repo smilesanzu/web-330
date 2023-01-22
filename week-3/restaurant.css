@@ -1,0 +1,30 @@
+/** 
+    Title: Assignment 3.2 restaurant.css
+    Author: Janis Gonzalez
+    Date: 1/22/2023
+    Description: Styling file for assign 3.2 restaurant app
+*/
+
+
+/* 
+    switches to grid display so that they can display side by side
+*/
+
+.side-by-side {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+
+/* 
+    width better fits page
+*/
+
+.cards {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 250px;
+    margin: 3% auto 0;
+    background-color: var(--card-background-color);
+    display: inline;
+}
