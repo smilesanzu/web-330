@@ -1,0 +1,13 @@
+/*
+    Title: Assignment 4.2 gonzalez-calorie.css
+    Author: Janis Gonzalez
+    Date: 1/29/2023
+    Description: gonzalez-calorie.html CSS file
+*/
+
+#foodList {
+    float: right;
+    color: #df546a;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
