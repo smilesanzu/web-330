@@ -1,0 +1,27 @@
+/*
+    Title: gonzalez-calorie.css
+    Author: Janis Gonzalez
+    Date: 4/05/2023
+    Description: css file for HTML file for web 330
+*/
+
+#cart-message {
+    float: left;
+    color: #df546a;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
+#cart-message:hover {
+    cursor: pointer;
+}
+
+cart-component {
+    font-size: 2em;
+    color: var(--card-title-color);
+}
+
+#cartIcon {
+    margin-left: 40%;
+    cursor: pointer;
+}
