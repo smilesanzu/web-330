@@ -1,0 +1,21 @@
+/*
+===========================================
+ Title: gonzalez-future-value.css
+ Author: Janis Gonzalez
+ Date: 2/11/2023
+ Modified by: Janis Gonzalez
+ Description: CSS for WEB 330
+===========================================
+*/
+
+.danger {
+    float: right;
+    color: #df546a;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
+.form-label {
+    display: inline-block;
+    padding-top: 1rem;
+}
